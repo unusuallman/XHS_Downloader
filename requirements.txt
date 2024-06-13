@@ -1,8 +1,8 @@
-aiohttp>=3.9.1
-textual>=0.47.1
-pyperclip>=1.8.2
-lxml>=5.1.0
-PyYAML>=6.0.1
-aiosqlite>=0.20.0
-click>=8.1.7
-browser_cookie3>=0.19.1
+aiohttp
+textual
+pyperclip
+lxml
+PyYAML
+aiosqlite
+click
+browser_cookie3
